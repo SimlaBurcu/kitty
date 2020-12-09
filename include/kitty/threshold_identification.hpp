@@ -60,7 +60,7 @@ bool is_threshold( const TT& tt, std::vector<int64_t>* plf = nullptr )
 {
   std::vector<int64_t> linear_form;
 
-  /* TODO */
+  /* TODO.. */
   /* if tt is non-TF: */
   return false;
 
